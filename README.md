@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**cristian-figeredo/cristian-figeredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá 
+meu cristian figeredo e gosto de dinheio
+eu estudo no neusa maria do bem
+sou desenvolvendo no j5
+e esse e aonde eu complatilha meu projeto
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+![cachorro-dancante](https://github.com/cristian-figeredo/cristian-figeredo/assets/169191569/d75ec145-3f36-4fc9-a64a-301e7db15376)
